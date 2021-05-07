@@ -1,6 +1,6 @@
 # Prérequis: 
 
-PhpMyAdmin
+MariaDB et PhpMyAdmin
 
 # Créer l'utilisateur de la bdd: 
 
